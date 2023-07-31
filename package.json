@@ -1,0 +1,12 @@
+{
+  "name": "whispershare",
+  "author": "Frys",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "./frontend",
+    "./backend"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
